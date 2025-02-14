@@ -1,2 +1,2 @@
 # Introduccion a las bases de datos
-Introducción a las bases de datos
+Curso impartido por Frogames
